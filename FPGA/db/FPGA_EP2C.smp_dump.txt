@@ -1,0 +1,12 @@
+
+State Machine - |FPGA_EP2C|SPI_OUT:inst2|current_state
+Name current_state.IDLE current_state.SEND_n current_state.SEND 
+current_state.IDLE 0 0 0 
+current_state.SEND 1 0 1 
+current_state.SEND_n 1 1 0 
+
+State Machine - |FPGA_EP2C|ADC_FIFO:inst4|current_state
+Name current_state.START current_state.ACLK_WAIT current_state.IDLE 
+current_state.IDLE 0 0 0 
+current_state.START 1 0 1 
+current_state.ACLK_WAIT 0 1 1 

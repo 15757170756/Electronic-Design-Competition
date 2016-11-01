@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="FPGA_EP2C">
+		<CBX_INST_ENTRY INSTANCE_NAME="|FPGA_EP2C|CLOCK:inst10|pll_2:inst8|altpll:altpll_component" CBX_FILE_NAME="pll_2_altpll3.v"/>
+	</PROJECT>
+</LOG_ROOT>

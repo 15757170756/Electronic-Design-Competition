@@ -1,0 +1,47 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\WORKSPACE\FPGA\FPGA_EP2C\simulation\modelsim
+vFPGA_EP2C
+Z1 IY3n@FDB>h;k09I`h;6RBV0
+Z2 V12me_XK@1>L<m:0ebTL`?0
+Z3 dE:\WORKSPACE\FPGA\FPGA_EP2C\simulation\modelsim
+Z4 w1426525280
+Z5 8FPGA_EP2C.vo
+Z6 FFPGA_EP2C.vo
+L0 31
+Z7 OV;L;10.1e;51
+r1
+31
+Z8 o-vlog01compat -work work -O0
+Z9 n@f@p@g@a_@e@p2@c
+!i10b 1
+Z10 !s100 8H41V;89LjjIZKi7ZMMEB1
+!s85 0
+Z11 !s108 1426525287.260000
+Z12 !s107 FPGA_EP2C.vo|
+Z13 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|FPGA_EP2C.vo|
+!s101 -O0
+Z14 !s92 -vlog01compat -work work +incdir+. -O0
+vFPGA_EP2C_vlg_tst
+!i10b 1
+!s100 gUaefXTX;ZbL2?Hd][]<81
+I`iF_UzRjzGb?28_Q_TgJ^0
+V<@C;BVI@5]O7:ndeH55cO0
+R3
+w1426524505
+8E:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim/FPGA_EP2C.vt
+FE:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim/FPGA_EP2C.vt
+L0 28
+R7
+r1
+!s85 0
+31
+!s108 1426525287.547000
+!s107 E:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim/FPGA_EP2C.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+E:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim|E:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim/FPGA_EP2C.vt|
+!s101 -O0
+R8
+!s92 -vlog01compat -work work +incdir+E:/WORKSPACE/FPGA/FPGA_EP2C/simulation/modelsim -O0
+n@f@p@g@a_@e@p2@c_vlg_tst
